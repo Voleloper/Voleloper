@@ -1,3 +1,6 @@
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGMTwNkLotgng/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715118753547?e=1742428800&v=beta&t=kuGU5Z0BfKzgFpKW3qR8__falz1GC6m06fy1S4sYOJ8" />
+
+ 
  💫 About Me:
 
 🎓 IT Student at Eastern Mediterranean University  <br>
