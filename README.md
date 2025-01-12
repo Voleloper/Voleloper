@@ -1,7 +1,6 @@
  💫 About Me:
 
 🎓 IT Student at Eastern Mediterranean University  <br>
-💻 Skilled in Python, Java, and Swift  <br>
 🌟 Passionate about building innovative solutions and learning new technologies  <br>
 📚 Exploring mobile and software development  <br>
 🌍 Open to collaboration on exciting projects  <br>
