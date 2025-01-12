@@ -22,4 +22,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=Voleloper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Voleloper&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=voleloper&label=Profile%20views&color=0e75b6&style=flat" alt="voleloper" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
