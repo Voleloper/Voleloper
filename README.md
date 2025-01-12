@@ -5,6 +5,8 @@
 🌟 Passionate about building innovative solutions and learning new technologies  <br>
 📚 Exploring mobile and software development  <br>
 🌍 Open to collaboration on exciting projects  <br>
+📫 Reach me at: [volkan@serryvolandoscar.com](mailto:volkan@serryvolandoscar.com)  <br>
+
 
 
  🌐 Socials:
