@@ -1,4 +1,3 @@
-<img src="[https://media.licdn.com/dms/image/v2/D4E16AQGMTwNkLotgng/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715118753547?e=1742428800&v=beta&t=kuGU5Z0BfKzgFpKW3qR8__falz1GC6m06fy1S4sYOJ8](https://media.licdn.com/dms/image/v2/D4E16AQGMTwNkLotgng/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715118753547?e=1750896000&v=beta&t=dBTgexupyTNk7G9WCh_3ZzBpx0baUpJ35J7r0Fy89hA)" />
 
 # Hi... I'm VOLKAN  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
