@@ -9,13 +9,13 @@
 📚 Exploring CyberSecurity and AI Red Teamer
 I test and secure AI systems by developing adversarial attacks and prompt injection scenarios. With an ethical hacking mindset, I focus on strengthening LLM security and making AI models more resilient. Open to collaboration and research in AI security and red teaming  <br>
 🌍 Open to collaboration on exciting projects  <br>
-📫 Reach me at: [volkan@serryvolandoscar.com](mailto:volkan@serryvolandoscar.com)  <br>
+📫 Reach me at: [volkan@kktcsiberbirlik.org](mailto:volkan@kktcsiberbirlik.org)  <br>
 
 
 
  🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thevolkankaya/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kendinesiber/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/volkan-kaya35/) 
 
  💻 Tech Stack:
