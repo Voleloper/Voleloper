@@ -6,7 +6,8 @@
 
 🎓 IT Student at Eastern Mediterranean University  <br>
 🌟 Passionate about building innovative solutions and learning new technologies  <br>
-📚 Exploring CyberSecurity  <br>
+📚 Exploring CyberSecurity and AI Red Teamer
+I test and secure AI systems by developing adversarial attacks and prompt injection scenarios. With an ethical hacking mindset, I focus on strengthening LLM security and making AI models more resilient. Open to collaboration and research in AI security and red teaming  <br>
 🌍 Open to collaboration on exciting projects  <br>
 📫 Reach me at: [volkan@serryvolandoscar.com](mailto:volkan@serryvolandoscar.com)  <br>
 
