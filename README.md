@@ -3,6 +3,13 @@
 
 [![THM_TOP_2%25](https://img.shields.io/badge/TryHackMe_TOP_2%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/KendineSiber)
 
+<p align="center">
+ 
+[![KendineSiber // CTF WAR ARCHIVE](https://img.shields.io/badge/KendineSiber_//_CTF_WAR_ARCHIVE-000000?style=for-the-badge&logo=ctftime&logoColor=ff0000&labelColor=111111)]()
+
+
+</p>
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/KendineSiber.png" alt="Your Image Badge" />
 
 #
@@ -19,15 +26,6 @@
 I test and secure AI systems by developing adversarial attacks and prompt injection scenarios. With an ethical hacking mindset, I focus on strengthening LLM security and making AI models more resilient. Open to collaboration and research in AI security and red teaming  <br>
 🌍 Open to collaboration on exciting projects  <br>
 📫 Reach me at: [volkan@kktcsiberbirlik.org](mailto:volkan@kktcsiberbirlik.org)  <br>
-
-#
-
-<p align="center">
- 
-[![KendineSiber // CTF WAR ARCHIVE](https://img.shields.io/badge/KendineSiber_//_CTF_WAR_ARCHIVE-000000?style=for-the-badge&logo=ctftime&logoColor=ff0000&labelColor=111111)]()
-
-
-</p>
 
 #
 
