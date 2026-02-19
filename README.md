@@ -1,7 +1,7 @@
 
 # Hi... I'm VOLKAN  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-[![THM_TOP_2%25](https://img.shields.io/badge/TryHackMe_TOP_2%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/KendineSiber)
+[![THM_TOP_1%25](https://img.shields.io/badge/TryHackMe_TOP_2%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/KendineSiber)
 
 <p align="center">
  
