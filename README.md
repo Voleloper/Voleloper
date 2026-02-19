@@ -24,9 +24,8 @@ I test and secure AI systems by developing adversarial attacks and prompt inject
 
 [![KendineSiber // CTF WAR ARCHIVE](https://img.shields.io/badge/KendineSiber_//_CTF_WAR_ARCHIVE-0d1117?style=for-the-badge&logo=linux&logoColor=ff0000&labelColor=000000)](https://github.com/Voleloper/CyberSecurity-Start)
 
-[![THM_TOP_2%25](https://img.shields.io/badge/THM_TOP_2%25-111111?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://tryhackme.com/p/KendineSiber)
+[![THM_TOP_2%25](https://img.shields.io/badge/TryHackMe_TOP_2%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/KendineSiber)
 
-[![AI_RED_TEAMER](https://img.shields.io/badge/AI_RED_TEAMER-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=ff0000)]()
 
 
 </p>
