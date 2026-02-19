@@ -3,13 +3,11 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/KendineSiber.png" alt="Your Image Badge" />
 
+#
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Explore+Click+My+Cyber+Security+Projects;Cyber+Security+START;Repositories+Below)](https://github.com/Voleloper/CyberSecurity-Start)
 
-## CYBERSECURITY - START 👇
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Explore+My+Cyber+Security+Projects;Red+Team+%7C+Security+Research;Repositories+Below+👇)](https://github.com/Voleloper/CyberSecurity-Start)
-
-
+#
  
  💫 About Me:
 
@@ -20,6 +18,20 @@ I test and secure AI systems by developing adversarial attacks and prompt inject
 🌍 Open to collaboration on exciting projects  <br>
 📫 Reach me at: [volkan@kktcsiberbirlik.org](mailto:volkan@kktcsiberbirlik.org)  <br>
 
+#
+
+<p align="center">
+
+[![KendineSiber // CTF WAR ARCHIVE](https://img.shields.io/badge/KendineSiber_//_CTF_WAR_ARCHIVE-0d1117?style=for-the-badge&logo=linux&logoColor=ff0000&labelColor=000000)](https://github.com/Voleloper/CyberSecurity-Start)
+
+[![THM_TOP_2%25](https://img.shields.io/badge/THM_TOP_2%25-111111?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://tryhackme.com/p/KendineSiber)
+
+[![AI_RED_TEAMER](https://img.shields.io/badge/AI_RED_TEAMER-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=ff0000)]()
+
+
+</p>
+
+#
 
 
  🌐 Socials:
