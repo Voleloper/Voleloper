@@ -5,12 +5,11 @@
 
 <p align="center">
  
-[![KendineSiber // CTF WAR ARCHIVE](https://img.shields.io/badge/KendineSiber_//_CTF_WAR_ARCHIVE-000000?style=for-the-badge&logo=ctftime&logoColor=ff0000&labelColor=111111)]()
-
 
 </p>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/KendineSiber.png" alt="Your Image Badge" />
+
 
 #
 
