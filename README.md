@@ -14,7 +14,7 @@
 
 #
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Click+And+Learn+About+Cyber+Security;Cyber+Security+START;Follow+Me)](https://github.com/Voleloper/CyberSecurity-Start)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Click+And+Learn+About+Cyber+Security;Cyber+Security+START;Follow+Me)](https://github.com/Voleloper/CyberSecurity-Beginner)
 
 #
  
